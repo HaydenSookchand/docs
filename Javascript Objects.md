@@ -4,6 +4,7 @@
 ## About
 
 The purpose of this page is to quickly go through all the ways objects are created in Javascript.
+https://plnkr.co/edit/OMDoKuvXa0GJ7eDXVvSx?p=info
 
 ## Literals and Constructors
 
