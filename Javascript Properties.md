@@ -86,7 +86,7 @@ Object.defineProperty(dog, 'fullName'
   }
 });
  
-console.log(dog2.fullName);
+console.log(dog.fullName);
 dog.fullName = "Summer Time"
 console.log(dog.fullName);
 console.log(dog.name.first);
