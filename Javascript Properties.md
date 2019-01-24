@@ -66,6 +66,8 @@ Object.defineProperty(dog2, 'name',{writeable: false});
 ```
 
 ## Getters and Setters
+https://www.youtube.com/watch?v=IbqCWoFO410
+
 ```javascript
 var dog ={
   name: {first : 'Ghost', last : 'Snow'},
