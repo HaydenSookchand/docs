@@ -28,3 +28,5 @@
 3. Which tab would I use if I wanted to look at https and associated SSL certificates?
 4. Where is the devices tab for simulating mobile devices?
 5. What panel would I use to get high-level suggestions about how to get your page to load q
+6. What is a breakpoint?
+7. Which panel would you use to set a breakpoint on a particular line of code?
