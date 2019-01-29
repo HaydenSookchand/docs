@@ -49,9 +49,6 @@ console.log("Changed First name: " +dog.first);
 console.log(Object.getOwnPropertyDescriptor(dog,'first'));
 ```
 
-## Enumerable
-http://zduck.com/2013/non-enumerable-properties-in-javascript/
-
 ## Configurable
 doesn't allow you to change configurable or enumerable to true after false, cannot delete properties after this is set to false
 
