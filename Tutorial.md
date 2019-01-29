@@ -19,3 +19,12 @@
 2. If an objects enumerable property is set to false will it appear in a For In Loop?
 3. If an objects enumerable property is set to false will it appear in the oobject keys?
 5.If an objects enumerable property is set to false will it appear in the json serialization?
+
+
+
+### Chrome Developer Tools 101
+1. What can you do in the Applications Tab?
+2. What is the keyboard shortcut to open devtools? win / mac
+3. Which tab would I use if I wanted to look at https and associated SSL certificates?
+4. Where is the devices tab for simulating mobile devices?
+5. What panel would I use to get high-level suggestions about how to get your page to load q
