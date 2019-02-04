@@ -1,51 +1,72 @@
 
 
-## Javascript Enumerables
-http://zduck.com/2013/non-enumerable-properties-in-javascript/
+## CSS Media Query Cheat 
 
-The For In loop allows you to loop through each property in an object. The code below will display the property name.
 
-```javascript
-var dog ={
-  name: 'Ghost',
-  color: 'White'
-}
- 
-for (var propertyName in dog){
-    console.log(propertyName + ':' + dog[propertyName])
-}
-```
+```css
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
 
-Now lets make enumerable false on the name  property.
-Now even though we are looping over all the properties in our Object , the name property is not returned in the loop.
+@media (min-width: 1281px) {
+  
+  //CSS
+  
+}
 
-```javascript
-var dog ={
-  name: 'Ghost',
-  color: 'White'
-}
- 
-Object.defineProperty(dog, 'name' , {enumerable:false})
-for (var propertyName in dog){
-    console.log(propertyName + ':' + dog[propertyName])
-}
-```
-Setting enumerable to false also makes it so that the object will not appear in the Object Keys.
-Setting enumerable to false affects json serialization as the property will not appear in the json.
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
 
-```javascript
-'use strict'
- 
-var dog ={
-  name: {first : 'Ghost', last : 'Snow'},
-  color: 'White'
+@media (min-width: 1025px) and (max-width: 1280px) {
+  
+  //CSS
+  
 }
- 
-Object.defineProperty(dog, 'name',{enumerable : true});
-for (var propertyName in dog){
-  display(propertyName + ':' + dog[propertyName]);
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  //CSS
+  
 }
- 
-console.log(Object.keys(dog))
-console.log(JSON.stringify(dog)
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  //CSS
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  //CSS
+  
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  //CSS
+  
+}
 ```
