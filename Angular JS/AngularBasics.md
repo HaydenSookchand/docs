@@ -18,6 +18,12 @@ Run the CLI command ng new and provide the name my-app, as shown here:
 ng new my-app
 ```
 
+If your new application would need routing, use the following to setup your workspace.
+
+```console
+ng new my-app --routing
+```
+
 ### Run the application
 Angular includes a server, so that you can easily build and serve your app locally.
 Go to the workspace folder (my-app).
@@ -27,3 +33,18 @@ Launch the server by using the CLI command ng serve, with the --open option.
 cd my-app
 ng serve --open
 ```
+
+### Generate a new component
+
+```console
+ng generate component
+```
+
+### How do I allow my application to be accessed outside localhost?
+
+```console
+ng serve --host 0.0.0.0
+```
+
+### Useful Links
+https://medium.com/codingthesmartway-com-blog/creating-angular-projects-with-angular-cli-e32b2cb486da
