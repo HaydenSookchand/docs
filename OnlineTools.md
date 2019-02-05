@@ -11,3 +11,6 @@ https://material.io/tools/icons/?style=baseline
 
 ### Hex color Picker 
 https://htmlcolorcodes.com/color-picker/
+
+### Favicon Generator
+https://www.favicon-generator.org/
