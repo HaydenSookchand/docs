@@ -14,3 +14,6 @@ https://htmlcolorcodes.com/color-picker/
 
 ### Favicon Generator
 https://www.favicon-generator.org/
+
+### Bitbucket (for private repos)
+https://bitbucket.org/dashboard/repositories
