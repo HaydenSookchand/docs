@@ -2,6 +2,8 @@
 
 ### Section A
 #### Creating Objects, Prototypes and the Constructor Pattern
+##### Watch : https://www.youtube.com/watch?v=hS_WqkyUah8
+
 1. Create an object, in 3 different ways with properties name and age.
 2. List 2 ways you can use the Object.create way to create an object.
 3. Create an object with properties name , age and method getYearOfBirth with Object.create.
