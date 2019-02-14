@@ -12,3 +12,7 @@
 6. Create the same object with the constructor pattern in es6.
 
 Answers - https://plnkr.co/edit/bM0BtruxnhwVsegfXr3q?p=info
+
+
+#### Module Pattern
+##### Watch : https://www.youtube.com/watch?v=3pXVHRT-amw
