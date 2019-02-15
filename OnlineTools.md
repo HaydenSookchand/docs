@@ -1,5 +1,8 @@
 ## Cool Online Tools for Web Dev
 
+### Jpeg Compression
+https://tinyjpg.com/
+
 ### Json Editor
 https://jsoneditoronline.org/
 
