@@ -46,5 +46,15 @@ ng generate component
 ng serve --host 0.0.0.0
 ```
 
+### How do I build my application for production?
+```console
+ng build --prod
+```
+
+### My application durbancomics.com/pre-order gives a 404 when refreshed in the live environment , how can I solve this ?
+You can download the .htacess file from here and drop it on the root location on the server.
+
+
+
 ### Useful Links
 https://medium.com/codingthesmartway-com-blog/creating-angular-projects-with-angular-cli-e32b2cb486da
