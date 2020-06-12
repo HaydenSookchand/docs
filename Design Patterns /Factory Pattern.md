@@ -50,20 +50,20 @@ implementation, you allow the code to be more extensible and<br>
 flexible.</li>
 </ol>
 <h2 id="code-examples">Code Examples</h2>
-<p>Simple Factory -  <a href="https://bitbucket.org/haydensookchand/typescript_design_patterns/src/66629df22ac2c81f8863b258930aad9649905dab/?at=patterns%2Fsimple-factory">https://bitbucket.org/haydensookchand/typescript_design_patterns/src/66629df22ac2c81f8863b258930aad9649905dab/?at=patterns%2Fsimple-factory</a></p>
-<p>Abstract Factory -  <a href="https://bitbucket.org/haydensookchand/typescript_design_patterns/src/a47d96a4e8ecd40f748b3ef1af1f28e753e01273/?at=patterns%2Fabstract-factory">https://bitbucket.org/haydensookchand/typescript_design_patterns/src/a47d96a4e8ecd40f748b3ef1af1f28e753e01273/?at=patterns%2Fabstract-factory</a></p>
+<p><a href="https://bitbucket.org/haydensookchand/typescript_design_patterns/src/66629df22ac2c81f8863b258930aad9649905dab/?at=patterns/simple-factory">Simple Factory</a><br>
+<a href="https://bitbucket.org/haydensookchand/typescript_design_patterns/src/a47d96a4e8ecd40f748b3ef1af1f28e753e01273/?at=patterns/abstract-factory">Abstract Factory</a></p>
 <h2 id="links">Links</h2>
-<p><a href="https://medium.com/@coyarzun/head-first-design-patterns-factory-pattern-2e1a9cfc119d">https://medium.com/@coyarzun/head-first-design-patterns-factory-pattern-2e1a9cfc119d</a>  READ</p>
-<p><a href="https://wanago.io/2019/12/02/javascript-design-patterns-factories-typescript/">https://wanago.io/2019/12/02/javascript-design-patterns-factories-typescript/</a>  READ</p>
-<p><a href="https://blog.fullstacktraining.com/factory-pattern-in-typescript/">https://blog.fullstacktraining.com/factory-pattern-in-typescript/</a>  READ</p>
-<p><a href="https://www.javatpoint.com/factory-method-design-pattern">https://www.javatpoint.com/factory-method-design-pattern</a>  READ</p>
-<p><a href="https://www.wikiwand.com/en/Factory_method_pattern#/See_also">https://www.wikiwand.com/en/Factory_method_pattern#/See_also</a>  READ</p>
-<p><a href="https://medium.com/@info.anikdey003/factory-method-design-pattern-277dd4bd3a11">https://medium.com/@info.anikdey003/factory-method-design-pattern-277dd4bd3a11</a>  READ</p>
-<p><a href="https://www.wikiwand.com/en/Creational_pattern">https://www.wikiwand.com/en/Creational_pattern</a>  READ</p>
+<p><a href="https://medium.com/@coyarzun/head-first-design-patterns-factory-pattern-2e1a9cfc119d">https://medium.com/@coyarzun/head-first-design-patterns-factory-pattern-2e1a9cfc119d</a></p>
+<p><a href="https://wanago.io/2019/12/02/javascript-design-patterns-factories-typescript/">https://wanago.io/2019/12/02/javascript-design-patterns-factories-typescript/</a></p>
+<p><a href="https://blog.fullstacktraining.com/factory-pattern-in-typescript/">https://blog.fullstacktraining.com/factory-pattern-in-typescript/</a></p>
+<p><a href="https://www.javatpoint.com/factory-method-design-pattern">https://www.javatpoint.com/factory-method-design-pattern</a></p>
+<p><a href="https://www.wikiwand.com/en/Factory_method_pattern#/See_also">https://www.wikiwand.com/en/Factory_method_pattern#/See_also</a></p>
+<p><a href="https://medium.com/@info.anikdey003/factory-method-design-pattern-277dd4bd3a11">https://medium.com/@info.anikdey003/factory-method-design-pattern-277dd4bd3a11</a></p>
+<p><a href="https://www.wikiwand.com/en/Creational_pattern">https://www.wikiwand.com/en/Creational_pattern</a></p>
 <p><a href="https://www.baeldung.com/java-constructors-vs-static-factory-methods">https://www.baeldung.com/java-constructors-vs-static-factory-methods</a></p>
-<p><a href="https://thedulinreport.com/2017/07/30/design-patters-in-typescript-factory/">https://thedulinreport.com/2017/07/30/design-patters-in-typescript-factory/</a>  READ</p>
-<p><a href="https://github.com/gztchan/design-patterns-in-typescript/blob/master/abstract-factory/abstract-factory.ts">https://github.com/gztchan/design-patterns-in-typescript/blob/master/abstract-factory/abstract-factory.ts</a>  READ</p>
+<p><a href="https://thedulinreport.com/2017/07/30/design-patters-in-typescript-factory/">https://thedulinreport.com/2017/07/30/design-patters-in-typescript-factory/</a></p>
+<p><a href="https://github.com/gztchan/design-patterns-in-typescript/blob/master/abstract-factory/abstract-factory.ts">https://github.com/gztchan/design-patterns-in-typescript/blob/master/abstract-factory/abstract-factory.ts</a></p>
 <p><a href="https://www.wikiwand.com/en/Abstract_factory_pattern">https://www.wikiwand.com/en/Abstract_factory_pattern</a></p>
 <h1 id="more-reading"># More Reading</h1>
-<p>Next Up - The Strategy Pattern <a href="https://bitbucket.org/haydensookchand/documentation/src/master/Design%20Patterns/Strategy%20Pattern.md">https://bitbucket.org/haydensookchand/documentation/src/master/Design%20Patterns/Strategy%20Pattern.md</a></p>
+<p>Next Up - The Strategy Pattern</p>
 
