@@ -51,7 +51,9 @@ implementation, you allow the code to be more extensible and<br>
 flexible.</li>
 </ol>
 <h2 id="code-examples">Code Examples</h2>
-<p><a href="https://bitbucket.org/haydensookchand/typescript_design_patterns/src/66629df22ac2c81f8863b258930aad9649905dab/?at=patterns/simple-factory">Simple Factory</a><br>
+<p>The examples below are taken from the Head First Design Patterns Book. Work through them in the given order.</p>
+<p><a href="https://bitbucket.org/haydensookchand/typescript_design_patterns/src/factory-pizza-problem/">The Pizza Problem</a><br>
+<a href="https://bitbucket.org/haydensookchand/typescript_design_patterns/src/66629df22ac2c81f8863b258930aad9649905dab/?at=patterns/simple-factory">Simple Factory</a><br>
 <a href="https://bitbucket.org/haydensookchand/typescript_design_patterns/src/a47d96a4e8ecd40f748b3ef1af1f28e753e01273/?at=patterns/abstract-factory">Abstract Factory</a></p>
 <h2 id="links">Links</h2>
 <p><a href="https://medium.com/@coyarzun/head-first-design-patterns-factory-pattern-2e1a9cfc119d">https://medium.com/@coyarzun/head-first-design-patterns-factory-pattern-2e1a9cfc119d</a></p>
