@@ -3,7 +3,8 @@
 
 ---
 
-<h1 id="the-factory-pattern">The Factory Pattern</h1>
+<h1 id="lesson-1---the-factory-pattern">Lesson 1 - The Factory Pattern</h1>
+<p>In this series we will be going through the various design patterns that are available. I will be using many different sources to gather information and all these sources will be listed in the links below. I will also be heavily referencing from the Head First Design Patterns Book which is definitely worth a read. At the bottom of each article there will also be links to some code examples for you to go through and play around with. So lets begin.</p>
 <p>The Factory Pattern is a Creational Design Pattern.<br>
 Creational Design Patterns are design patterns that deal with object creation mechanisms.</p>
 <p>In this tutorial we will look at the following :</p>
@@ -64,6 +65,6 @@ flexible.</li>
 <p><a href="https://thedulinreport.com/2017/07/30/design-patters-in-typescript-factory/">https://thedulinreport.com/2017/07/30/design-patters-in-typescript-factory/</a></p>
 <p><a href="https://github.com/gztchan/design-patterns-in-typescript/blob/master/abstract-factory/abstract-factory.ts">https://github.com/gztchan/design-patterns-in-typescript/blob/master/abstract-factory/abstract-factory.ts</a></p>
 <p><a href="https://www.wikiwand.com/en/Abstract_factory_pattern">https://www.wikiwand.com/en/Abstract_factory_pattern</a></p>
-<h1 id="more-reading"># More Reading</h1>
+<h1 id="more-reading">More Reading</h1>
 <p>Next Up - The Strategy Pattern</p>
 
